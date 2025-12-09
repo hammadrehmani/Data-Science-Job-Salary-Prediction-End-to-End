@@ -85,7 +85,7 @@ I conducted EDA to understand the distribution of salaries and the correlation b
 
 | Salary by Job Title | Job Opportunities by State | Feature Correlations |
 | :---: | :---: | :---: |
-| ![Salary by Title](https://github.com/FahadUrRehman07/ds_Salary_proj/assets/128632222/274b4c4b-11ac-4d4f-89f8-d8218a1af8c5) | ![Jobs by State](https://github.com/FahadUrRehman07/ds_Salary_proj/assets/128632222/101cd04b-e540-4712-8fc1-1bee200c108f) | ![Correlations](https://github.com/FahadUrRehman07/ds_Salary_proj/assets/128632222/a9e14311-5411-4af6-a87e-8d46f3bfb6be) |
+| ![Salary by Title](https://github.com/hammadrehmani/Data-Science-Job-Salary-Prediction-End-to-End/blob/main/salary_by_job_title.PNG) | ![Jobs by State](https://github.com/hammadrehmani/Data-Science-Job-Salary-Prediction-End-to-End/blob/main/positions_by_state.jpg) | ![Correlations](https://github.com/hammadrehmani/Data-Science-Job-Salary-Prediction-End-to-End/blob/main/correlation_visual.jpg) |
 
 ---
 
